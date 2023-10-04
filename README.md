@@ -1,6 +1,6 @@
 # SuguruSolverAI
 For this suguru solver, I used a move to choose where to guess and My consistency worked by first going through the cell making sure all the numbers were consistent with the rules then moving to see if the rules held in the surrounding cells.  
-To run this ai, put 
+To run this ai, put  
 `python3 Run.py`  
 
 You can change the puzzle by going into Run.py and putting one of these puzzles within the puzzle parameter on the 2nd line. And if u have graphics, you can change the size of the graphics in the graphics parameter on the 3rd line of code.  
