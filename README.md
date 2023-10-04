@@ -1,10 +1,11 @@
 # SuguruSolverAI
-For this suguru solver, I used a mrv to choose where to guess and My consistency worked by first going through the cell making sure all the numbers were consistent with the rules then moved to see if the rules held in the surounding cells.  
-To run this ai, put "python3 Run.py"  
+For this suguru solver, I used a move to choose where to guess and My consistency worked by first going through the cell making sure all the numbers were consistent with the rules then moving to see if the rules held in the surrounding cells.  
+To run this ai, put 
+`python3 Run.py`  
 
-You can change the puzzle by going into the Run.py and putting one of these puzzle with in the puzzle parameter on the 2nd line. And if u have graphics, you can change the size of the graphics in the graphics parameter on the 3rd line of code.  
+You can change the puzzle by going into Run.py and putting one of these puzzles within the puzzle parameter on the 2nd line. And if u have graphics, you can change the size of the graphics in the graphics parameter on the 3rd line of code.  
 
-### here are the puzzle text:  
+### Here are the puzzle text:  
 0707AA0AB0AB1AB0AB0AC0AC1AA3AD0AD0AB0AC0AC3AG0AA4AD5AE0AE3AF0AC0AG0AA0AD0AE0AF0AF5AF0AG0AA0AD0AE0AI0AF0AJ0AG0AH4AH0AE0AI0AI0AJ0AG0AH0AH0AH0AI0AJ0AJ4AJ0-5cc3a70e79d2cb8f4ad17de1e7a3fb19  
   
 0808AA3AA2AA0AB0AB2AC0AD0AD2AA0AA0AE0AB0AB0AC0AC0AD0AE2AE0AE0AB0AF3AC0AC0AD0AG0AE0AH0AF0AF0AF0AF0AD0AG0AH0AH0AH0AI0AJ0AJ0AJ0AG0AK0AH0AI0AI0AI0AJ0AJ0AL0AK0AK0AM0AI0AN0AN0AN0AL0AK0AM0AM0AM0AM0AN4AN3-acd1295355e29df46d8bd406b8e3a9ca  
